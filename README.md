@@ -22,7 +22,6 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 ## Breach Lookup & Monitoring
 
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in data breaches
-- [DataBreach.io](https://databreach.io/) - Multi-identifier breach search with monitoring alerts
 - [DeHashed](https://dehashed.com/) - Paid breach search engine with extensive dataset
 - [IntelligenceX](https://intelx.io/) - OSINT search engine including breach data
 - [LeakCheck](https://leakcheck.io/) - Email breach lookup and monitoring
