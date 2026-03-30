@@ -76,6 +76,7 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 
 ## News & Research
 
+- [BreachNews](https://breachnews.com/) - Real-time data breach intelligence and reporting
 - [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation
 - [BleepingComputer](https://www.bleepingcomputer.com/) - Technology news and support
 - [The Hacker News](https://thehackernews.com/) - Cybersecurity news platform
